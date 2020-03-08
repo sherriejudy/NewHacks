@@ -5,7 +5,10 @@ Finding mentorship or protegees in fields in interests has never been easier tha
 ## Preview
 
 <img src="https://github.com/sherriejudy/NewHacks/blob/master/img/Profile.png"></img>
-
+<img src="https://github.com/sherriejudy/NewHacks/blob/master/img/Landing.png"></img>
+<img src="https://github.com/sherriejudy/NewHacks/blob/master/img/Blog.png"></img>
+<img src="https://github.com/sherriejudy/NewHacks/blob/master/img/Testimonials.png"></img>
+<img src="https://github.com/sherriejudy/NewHacks/blob/master/img/Explore"></img>
 **[View Live Preview](https://sherriejudy.github.io/NewHacks/)**
 
 ## How It Works
