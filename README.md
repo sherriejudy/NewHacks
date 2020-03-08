@@ -1,6 +1,6 @@
 # [Networking Mentorship Tool - NMT.js](http://127.0.0.1:5500/index.html)
 
-Finding mentorship or protegees in fields in interests has never been easier than with our Networking Mentorship Tool, NMT.js.
+Finding mentorship or protegees in fields in interests has never been easier than with our Networking Mentorship Tool, NMT.js. Made during NewHacks University of Toronto 2020.
 
 ## Preview
 
