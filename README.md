@@ -4,21 +4,13 @@ Finding mentorship or protegees in fields in interests has never been easier tha
 
 ## Preview
 
-[![Landing Page Preview](https://startbootstrap.com/assets/img/screenshots/themes/landing-page.png)](https://blackrockdigital.github.io/startbootstrap-landing-page/)
+<img src="https://github.com/sherriejudy/NewHacks/blob/master/img/Profile.png"></img>
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-landing-page/)**
+**[View Live Preview](https://github.com/sherriejudy/NewHacks/blob/master/img/Profile.png)**
 
 ## How It Works
 
-- Login on the landing page using the "Login" button on either the navigation bar or on top of the picture
-- Once directed to the login page, click the "Gmail" or "Facebook" option to sign in with an account
-- Appointments can be booked by clicking a slot on the calendar, options are provided for start and ends date, as well as choosing different different views (one to seven days). You can also customize your event by selecting a variety of colours.
-- By choosing "My Calendar" on the navigation bar, the user is able to view their own calendar events.
-- Users can also interact with other people on the website, when clicking "Book Meeting", users can add people for events and different caldendars can overlap with each other.
-
-## Technologies used
-
-```
-*
-*
-```
+- Login on the landing page using the "Sing In" button on top-right of the picture
+- Once directed to the login page, enter log-in details to authenticate and log on to your accout
+- The user will be first directed to their profile page that renders a main profile, posting options, view of recent most recent previous posts, and recommendations and reviews from their network circle.
+- By choosing "Find+r" on the navigation bar, the user is able access the primary functionality of interactin with other people on the website, viewing potential metched they have matched with and can choose the option to "Connect" with.
