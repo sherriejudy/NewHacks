@@ -1,6 +1,6 @@
 # [Networking Mentorship Tool - NMT.js](http://127.0.0.1:5500/index.html)
 
-Finding mentorship or protegees in fields in interests has never been easier than with our Networking Mentorship Tool, NMT.js. Made during NewHacks University of Toronto 2020.
+Finding mentorship or protegees in fields in interests has never been easier than with our Networking Mentorship Tool, NMT.js. Made during NewHacks University of Toronto 2020. NTM.js provide a platform to connect mentors and protege together in a safe and convenient way. Connecting with others who are in your fields of interest open about growing their networks, in any academic programs and finding new opportunities to meet other thriving professionals in the field of choice who are more than happy to help or receive advice. Introducing for the first time ever a platform to specialize connect all mentors and protege in a convenient and easy to use approach. We tailor your matches to make the pairing process easier and constantly update our security measure to make sure that everyone gets the best experience possible. Targeting age demographic of high school students and university students.
 
 ## Preview
 
